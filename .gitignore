@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env
+.env.local
+.env.production
+*.firebase.json
+*.firebaserc
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+database.db
+.vite/

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__filesystem__edit_file",
+      "Bash(curl:*)",
+      "Bash(npm install:*)",
+      "Bash(npx -y firebase-tools@latest mcp add firebase)",
+      "Bash(firebase:*)",
+      "Bash(gh:*)",
+      "Bash(cd:*)",
+      "mcp__filesystem__list_directory",
+      "mcp__filesystem__search_files"
+    ]
+  }
+}
